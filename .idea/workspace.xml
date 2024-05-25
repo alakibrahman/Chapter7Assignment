@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="007ed6a4-0604-469d-bd42-bf73f52808fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_10_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_12/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_12/SequenceRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_17/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_17/TableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_18/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_18/TableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_19/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_20/BarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_21/ImprovedBarChart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_22/ImprovedBarChartWithCaptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_23/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_23/SequenceRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_24/Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_24/SequenceRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/E7_8.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2glDkbPmSjA2D0lWHdnpUVC2Bfu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BarChart.executor": "Run",
+    "Application.E7_1.executor": "Run",
+    "Application.E7_10_Runner.executor": "Run",
+    "Application.E7_18.TableRunner.executor": "Run",
+    "Application.E7_2.executor": "Run",
+    "Application.E7_20.BarChart.executor": "Run",
+    "Application.E7_24.SequenceRunner.executor": "Run",
+    "Application.E7_3.executor": "Run",
+    "Application.E7_4.executor": "Run",
+    "Application.E7_6.executor": "Run",
+    "Application.E7_7.executor": "Run",
+    "Application.E7_8.executor": "Run",
+    "Application.ImprovedBarChart.executor": "Run",
+    "Application.ImprovedBarChartWithCaptions.executor": "Run",
+    "Application.SequenceRunner.executor": "Run",
+    "Application.TableRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/LAPTOP LEGEND/IdeaProjects/Chapter_7/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.E7_24.SequenceRunner">
+    <configuration name="BarChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E7_19.BarChart" />
+      <module name="Chapter_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E7_19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E7_24.SequenceRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E7_24.SequenceRunner" />
+      <module name="Chapter_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E7_24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprovedBarChart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E7_21.ImprovedBarChart" />
+      <module name="Chapter_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E7_21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImprovedBarChartWithCaptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E7_22.ImprovedBarChartWithCaptions" />
+      <module name="Chapter_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E7_22.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequenceRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E7_23.SequenceRunner" />
+      <module name="Chapter_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="E7_23.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E7_24.SequenceRunner" />
+        <item itemvalue="Application.SequenceRunner" />
+        <item itemvalue="Application.ImprovedBarChartWithCaptions" />
+        <item itemvalue="Application.ImprovedBarChart" />
+        <item itemvalue="Application.BarChart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="007ed6a4-0604-469d-bd42-bf73f52808fe" name="Changes" comment="" />
+      <created>1716263414751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716263414751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
